@@ -57,7 +57,7 @@
 	"Redirect": "0",
 	"AppPackageName": "com.hihonor.health",
 	"OneSignal": "02edab5a-8631-4911-bca4-9ab0c6856f37",
-        "notification": "1",
+        "Notification": "1",
 
 	"browser": "https://www.google.com/search?q=",
 	"browserServer": "https://yandex.com/video/search?text=",
