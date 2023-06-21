@@ -1,0 +1,73 @@
+
+ 
+
+{
+
+	"appid": "ca-app-pub-3940256099942544~3347511713",
+  "native": "ca-app-pub-3940256099942544/2247696110",
+	"banner": "ca-app-pub-3940256099942544/6300978111",
+	"inter": "ca-app-pub-3940256099942544/1033173712",
+  
+  "Admob": "0",
+	"BannerAdmob": "0",
+	"NativeAdmob": "0",
+
+  "Bidding_Admob_Inter": "0",
+	"Bidding_Admob_Banner": "0",
+	"Bidding_Admob_Native": "0",
+
+
+	"interFan": "199850962620816_199853092620603",
+	"NativeFan": "199850962620816_199853335953912",
+	"BannerFan": "199850962620816_199853049287274",
+  
+  "Fan": "1",
+  "BannerFanAds": "1",
+	"NativeFanAds": "1",
+  
+  "InterApplovinId": "537e19f2f92132f8",
+	"BannerApplovinId": "9a6b15a371a92518",
+	"MrcApplovinId": "0",
+	"VideoReword": "0",
+	"NativeApplovin": "675de1870de10b77",
+  
+  "Applovin": "0",
+  "BannerApplovin": "0",
+  
+  "Bidding_Applovin_Inter": "0",
+	"Bidding_Applovin_Banner": "0",
+	"Bidding_Applovin_Mrc": "0",
+	"Bidding_Applovin_Native": "0",
+	"Bidding_Applovin_VideoReword": "0",
+  
+  
+  "IdStarapp": "205147707",
+  
+  "Starapp": "0",
+
+
+ "idappdeal": "f82101653f0cc1f4b8140cfbd2f47f6f306c4d5e865a6d66",
+ 
+ 	"appdeal": "0",
+
+  "button": "0",
+	"splase": "0",
+
+  "adsbrutal": "0",
+	"adsbiasa": "1",
+	
+	"Notification": "0",
+	"Redirect": "0",
+	"AppPackageName": "com.hihonor.health",
+	"OneSignal": "02edab5a-8631-4911-bca4-9ab0c6856f37",
+  
+  "browser": "https://www.google.com/search?q=",
+  "browserServer": "https://yandex.com/video/search?text=",     
+
+
+
+
+
+
+	"iklan": "1"
+}
