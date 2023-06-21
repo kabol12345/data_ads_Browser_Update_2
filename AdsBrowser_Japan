@@ -53,7 +53,7 @@
 	"adsbrutal": "0",
 	"adsbiasa": "1",
 
-	"Notification": "0",
+	"Notification": "1",
 	"Redirect": "0",
 	"AppPackageName": "com.hihonor.health",
 	"OneSignal": "02edab5a-8631-4911-bca4-9ab0c6856f37",
