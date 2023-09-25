@@ -60,7 +60,7 @@
         "Notification": "1",
 
 	"browser": "https://www.google.com/search?q=",
-	"browserServer": "https://yandex.com/video/search?text=",
+	"browserServer": "https://yandex.eu/video/search?from=tabbar&text=",
 
 
 
